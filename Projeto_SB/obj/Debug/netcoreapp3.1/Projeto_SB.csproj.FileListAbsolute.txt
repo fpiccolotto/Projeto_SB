@@ -1,0 +1,13 @@
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\bin\Debug\netcoreapp3.1\Projeto_SB.exe
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\bin\Debug\netcoreapp3.1\Projeto_SB.deps.json
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\bin\Debug\netcoreapp3.1\Projeto_SB.runtimeconfig.json
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\bin\Debug\netcoreapp3.1\Projeto_SB.runtimeconfig.dev.json
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\bin\Debug\netcoreapp3.1\Projeto_SB.dll
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\bin\Debug\netcoreapp3.1\Projeto_SB.pdb
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\obj\Debug\netcoreapp3.1\Projeto_SB.csprojAssemblyReference.cache
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\obj\Debug\netcoreapp3.1\Projeto_SB.csproj.CoreCompileInputs.cache
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\obj\Debug\netcoreapp3.1\Projeto_SB.AssemblyInfoInputs.cache
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\obj\Debug\netcoreapp3.1\Projeto_SB.AssemblyInfo.cs
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\obj\Debug\netcoreapp3.1\Projeto_SB.dll
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\obj\Debug\netcoreapp3.1\Projeto_SB.pdb
+C:\Temp\meus_projetos\c-sharp_composicao\Projeto_SB\Projeto_SB\obj\Debug\netcoreapp3.1\Projeto_SB.genruntimeconfig.cache
